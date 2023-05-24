@@ -1,0 +1,23 @@
+h1{color:black;
+font: oblique small-caps bold 50px/40px Georgia, serif;
+text-align: center;
+}
+p{color:black;
+    font: size 100%;
+text-align: center;
+}
+
+
+p.a {
+    font: italic small-caps  30px/40px Georgia, serif;
+  }
+  
+p.h {
+    font: italic small-caps  30px/40px Georgia, serif;
+    color: rgb(0, 3, 85);
+  }
+  div.two { background-color: beige;
+
+  }
+    
+  
